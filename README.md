@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler
-- 👀 I’m interested in ... HTML/CSS web development, Flutter, Kotlin, and making Full-Stack Applications. Most my knowledge is in back-end development with Java or Javascript currently.
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS, python, and more Java, 
+- 👀 I’m interested in ... HTML/CSS web development, SpringBoot, Flutter, Kotlin, and making Full-Stack Applications. Most my knowledge is in back-end development with Java or Javascript currently.
+- 🌱 I’m currently learning ... JavaScript, HTML, CSS, python, and Java frameworks, 
 - 💞️ I’m looking to collaborate on ... any and all sorts of projects. 
 - 📫 How to reach me ... tmcgrego47@gmail.com
 
